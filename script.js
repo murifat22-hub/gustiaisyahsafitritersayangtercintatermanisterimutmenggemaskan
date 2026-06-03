@@ -35,7 +35,7 @@ currentDate.toLocaleDateString("id-ID", {
 
 const letterText = `Halo sayangggg... cintaku, manisku, sayangku, mbg-ku, bebe gwehhh, pokonya punya gwehhhh, my luvvvv ^v^🫶🏻🫶🏻🫶🏻
 
-Jadi aku membuat ini berniat untuk menghibur sayanggg. Walaupun hasilnya masih jelek, mohon dimaklumin yaa sayangg. Aku buatnya kurang dari 2 jam dan masih banyak perlu bantuan prompt AI untuk membuat ini. Tapi ini bukan pure buatan mereka lhooo, kan aku yang buat ini hehehehe 😚😚😚. Buktinya ini tulisan acuuuu cayanggg 🤗🤗🤗
+Jadi aku membuat ini berniat untuk menghibur sayanggg. Walaupun hasilnya masih jelek, mohon dimaklumin yaa sayangg. Aku anak akuntansi soalnya mweheheh (buat ini jugo lah nak 5 jam sayanggg😭😭, bnyk bug) dan masih banyak perlu bantuan prompt AI untuk membuat ini. Tapi ini bukan pure buatan mereka lhooo, kan aku yang buat ini hehehehe 😚😚😚. Buktinya ini tulisan acuuuu cayanggg 🤗🤗🤗
 
 Aku minta maaf yahhh karena siang tadi kurang care dengan sayanggg. Aku lebih sibuk dengan dunia aku sendiri dan lupa kalau sayang aku lagi sakit peyuttt sama kepayaa 🙆🏻‍♂️. Maaf yaaa sayanggg, bukannya aku nggak peduli dengan sayanggg. Emang tadi aku ngerespon sayang jelekkk bangetttt, wajar kalau sayang betmuttt 😇😇😇. Next I'll never try again again and again yaa sayanggg 🫶🏻🫶🏻🫶🏻 cinta 🩷🩷🩷 kekasihku 🤏🏻🤏🏻🤏🏻
 
